@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">OnBoarding</string>
+    <string name="explore_products">Explore Products</string>
+    <string name="explore_products_description">Explore thousands of products and start shopping</string>
+    <string name="make_payments">Make Payments</string>
+    <string name="make_payments_description">Up to ten plus options of payments</string>
+    <string name="enjoy_shopping">Enjoy Shopping</string>
+    <string name="enjoy_shopping_description">Get high quality products with reasonable prices</string>
 </resources>
